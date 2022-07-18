@@ -3,10 +3,22 @@
 /* Multiple Divs can belong to one class /one class , Only one Id can belong to one div */
 
 table,th,td{
-    
-    border: 1px solid black;
+    background-color: #f4f0f0 ;
+    border: 0px solid black;
     border-collapse: collapse;
-    padding: 10px
+    padding: 20px
   
 }
 
+body{
+    background-color: whitesmoke;
+}
+
+.Gallery{
+
+}
+
+thead{
+    text-align: center;
+    vertical-align: middle;
+}
