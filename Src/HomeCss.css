@@ -1,7 +1,12 @@
 /* CSS Document */
 
 /* Multiple Divs can belong to one class /one class , Only one Id can belong to one div */
+.container{
+    display: flex;
+    flex-direction: column;
 
+
+}
 table,th,td{
     background-color: #f4f0f0 ;
     border: 0px solid black;
@@ -12,6 +17,7 @@ table,th,td{
 
 body{
     background-color: whitesmoke;
+    color: rgb(31, 33, 33)
 }
 
 .Gallery{
@@ -22,3 +28,19 @@ thead{
     text-align: center;
     vertical-align: middle;
 }
+
+
+
+@media (orientation: portrait){
+    body{
+        background-color: lightgrey;
+        color: grey;
+    }
+
+    .MyName{
+        color: whitesmoke;
+    }
+
+
+}
+
