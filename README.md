@@ -46,13 +46,11 @@ external CSS file
 • Consistent navbar on all pages
 • Styled well
 • All links working
-• Basic user interaction (Ex: hover, submit
-form, Action on click)
+• Basic user interaction (Ex: hover, submit form, Action on click)
 
 -‘Nice to have’
 
 • All of the ‘Must Have criteria’ +
 • Mobile responsive website
 • Effective use of classes and IDs
-• JavaScript used to enable user
-interaction
+• JavaScript used to enable user interaction
