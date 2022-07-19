@@ -2,6 +2,7 @@
 
 #This is my personal portfolio website
 
+
 #Minimum Criteria Page 1:
 
 -Create a single HTML site including the following elements. Special attention needs to be paid to the file
@@ -35,3 +36,23 @@ long as the files within are relevant
 
 5.In your ‘index.html’ file, set the viewport. Viewport= The size of the window you're viewing your website on.
 
+6.Create a basic wireframe for your
+index.html page
+
+-‘Must have’:
+
+• A minimum of 2 HTML web pages and one
+external CSS file
+• Consistent navbar on all pages
+• Styled well
+• All links working
+• Basic user interaction (Ex: hover, submit
+form, Action on click)
+
+-‘Nice to have’
+
+• All of the ‘Must Have criteria’ +
+• Mobile responsive website
+• Effective use of classes and IDs
+• JavaScript used to enable user
+interaction
